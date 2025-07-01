@@ -6,3 +6,6 @@
 body {
   font-family: 'Montserrat', ui-sans-serif, system-ui, sans-serif;
 } 
+html {
+  overflow-y: scroll;
+}

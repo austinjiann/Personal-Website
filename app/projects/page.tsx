@@ -29,7 +29,7 @@ export default function ProjectsPage() {
             <Link href="https://www.linkedin.com/in/austin-jian" target="_blank" rel="noopener noreferrer" className="text-2xl hover:scale-110 transition-transform duration-200">
               <FaLinkedin />
             </Link>
-            <Link href="https://github.com/Austin-Jian" target="_blank" rel="noopener noreferrer" className="text-2xl hover:scale-110 transition-transform duration-200">
+            <Link href="https://github.com/austinjiann" target="_blank" rel="noopener noreferrer" className="text-2xl hover:scale-110 transition-transform duration-200">
               <FaGithub />
             </Link>
             <Link href="mailto:Austin.jian07@gmail.com" className="text-2xl hover:scale-110 transition-transform duration-200">
@@ -54,7 +54,7 @@ export default function ProjectsPage() {
           <h1 className="text-8xl font-bold mb-8">Projects</h1>
           <p className="text-lg text-gray-400 max-w-2xl">
             Case studies for each project coming out soon! In the meantime, check out my{' '}
-            <Link href="https://github.com/Austin-Jian" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 decoration-white font-normal transition-all duration-150 hover:font-bold hover:text-white hover:no-underline focus:font-bold focus:text-white focus:no-underline">
+            <Link href="https://github.com/austinjiann" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 decoration-white font-normal transition-all duration-150 hover:font-bold hover:text-white hover:no-underline focus:font-bold focus:text-white focus:no-underline">
                 GitHub
             </Link>
             !

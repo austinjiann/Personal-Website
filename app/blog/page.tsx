@@ -29,7 +29,7 @@ export default function BlogPage() {
             <Link href="https://www.linkedin.com/in/austin-jian" target="_blank" rel="noopener noreferrer" className="text-2xl hover:scale-110 transition-transform duration-200">
               <FaLinkedin />
             </Link>
-            <Link href="https://github.com/Austin-Jian" target="_blank" rel="noopener noreferrer" className="text-2xl hover:scale-110 transition-transform duration-200">
+            <Link href="https://github.com/austinjiann" target="_blank" rel="noopener noreferrer" className="text-2xl hover:scale-110 transition-transform duration-200">
               <FaGithub />
             </Link>
             <Link href="mailto:Austin.jian07@gmail.com" className="text-2xl hover:scale-110 transition-transform duration-200">
